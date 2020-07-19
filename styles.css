@@ -1,0 +1,31 @@
+.body-wrapper   {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.row  {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 85px;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    align-items: center;
+
+  }
+.column1 img {
+    margin-left: 135%;
+} 
+
+.column2 img {
+    margin-right: -10%;
+}
+  
+
+.column img{
+    width: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }  
